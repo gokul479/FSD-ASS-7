@@ -1,0 +1,22 @@
+{
+  "name": "fsd-assignment-7",
+  "version": "1.0.0",
+  "description": "Full Stack Banking Application refactored with Node.js, Express, and Vanilla JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "banking-app",
+    "express",
+    "nodejs",
+    "full-stack"
+  ],
+  "author": "Gokul K",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
